@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
