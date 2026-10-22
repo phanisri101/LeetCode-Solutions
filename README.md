@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
