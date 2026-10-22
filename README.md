@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
