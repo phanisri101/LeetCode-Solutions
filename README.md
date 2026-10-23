@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [1991-find-the-middle-index-in-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
