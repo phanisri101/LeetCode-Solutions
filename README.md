@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Simulation
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
@@ -51,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
