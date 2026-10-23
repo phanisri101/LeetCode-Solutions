@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0682-baseball-game](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1991-find-the-middle-index-in-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -45,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/phanisri101/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
